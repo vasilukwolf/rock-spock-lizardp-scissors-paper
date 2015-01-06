@@ -54,9 +54,6 @@ and open the template in the editor.
         rpsls("paper")  ;
         rpsls("lizard") ; 
         rpsls("scissors") ;
-        
-        
-        
-        ?>
+           ?>
     </body>
 </html>
