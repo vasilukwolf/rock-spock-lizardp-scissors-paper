@@ -32,7 +32,7 @@ and open the template in the editor.
         //Составляем правила
         function rpsls($name){
           $player_number = name_to_number($name);
-          $comp_number = rand(0,5);
+          $comp_number = rand(0,4);
           $difference =($player_number - $comp_number);
           if ($difference == 0){
               $results='Player and computer tie!';
