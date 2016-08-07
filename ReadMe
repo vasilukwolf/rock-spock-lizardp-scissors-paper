@@ -1,0 +1,13 @@
+#Прототип версии камень ножницы бумага.
+
+[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
+Код популярной игры Rock-spock-lizardp-scissors-paper, которую популяризировали в
+сериале "Теория большого взрыва"
+
+## Лицензия
+Код распространяется по лицензии [MIT license](http://opensource.org/licenses/MIT).
+
+##Ссылки
+https://www.youtube.com/watch?v=x5Q6-wMx-K8
+
+https://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock
