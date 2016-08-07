@@ -1,4 +1,4 @@
-#Прототип версии камень ножницы бумага.
+#Прототип версии игры "Kамень Hожницы Бумага".
 
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
